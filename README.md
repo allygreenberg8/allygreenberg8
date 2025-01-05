@@ -1,16 +1,13 @@
-## Hi there 👋
+## My name is Allyson (Ally) Greenberg
+=========================================
 
-<!--
-**allygreenberg8/allygreenberg8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at the University of Florida
+------------------------------------
 
-Here are some ideas to get you started:
+I am set to graduate in May 2027, and as of right now, I am building a strong foundation in programming, problem-solving, and analytical thinking. My current goal ultimate goal is to secure an internship that will allow me to apply my programming, problem-solving, and analytical skills in a dynamic, data-driven environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in South Florida
+* 🖥️  See my portfolio at [http://agreenie.tech/](http://http://agreenie.tech/)
+* ✉️  You can contact me at [greenberg.a@ufl.edu](mailto:greenberg.a@ufl.edu)
+
+  <-- https://www.profileme.dev/create-profile -->
